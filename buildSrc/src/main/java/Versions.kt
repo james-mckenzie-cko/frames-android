@@ -35,6 +35,9 @@ object Versions {
     const val loggingInterceptor = "4.9.3"
     const val moshi = "1.13.0"
 
+    // Risk SDK Dependencies
+    const val riskSdk = "1.0.0"
+
     // Unit Testing Dependencies
     const val junit5Jupiter = "5.8.0"
     const val junit4 = "4.13.2"

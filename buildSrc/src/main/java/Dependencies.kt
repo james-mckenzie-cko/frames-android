@@ -42,6 +42,9 @@ object Dependencies {
     const val loggingInterceptor = "com.squareup.okhttp3:logging-interceptor:${Versions.loggingInterceptor}"
     const val moshi = "com.squareup.moshi:moshi-kotlin:${Versions.moshi}"
 
+    // Risk SDK
+    const val riskSdk = "com.checkout:checkout-sdk-risk-android:${Versions.riskSdk}"
+
     // Logging
     const val eventLogger = "com.checkout:checkout-sdk-event-logger-android:${Versions.eventLogger}"
 
