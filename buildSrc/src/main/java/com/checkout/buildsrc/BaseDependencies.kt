@@ -53,6 +53,10 @@ fun DependencyHandler.networkingDependencies() {
     implementation(Dependencies.moshi)
 }
 
+fun DependencyHandler.riskSdkDependencies() {
+    implementation(Dependencies.riskSdk)
+}
+
 /**
  * Logging dependencies
  */
